@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "tag": "mun. Bălți, Republica Moldova",
+    "title": {
+      "line1": "Contabilitate.",
+      "line2": "Automatizare.",
+      "line3": "Rezultate."
+    },
+    "subtitle": "Servicii complete pentru afacerea ta — de la contabilitate și fiscalitate până la boți AI și automatizare 1C. Tot ce ai nevoie, într-un singur loc.",
+    "cta": {
+      "contact": "Contactați-ne",
+      "services": "Serviciile noastre"
+    },
+    "stat": {
+      "experience": "ani de experiență în contabilitate",
+      "clients": "clienți activi în portofoliu",
+      "dev": "dezvoltare și automatizare",
+      "ai": "boți și integrări moderne"
+    }
+  },
+  "services": {
+    "tag": "Ce oferim",
+    "title": {
+      "line1": "Servicii pentru",
+      "line2": "afacerea ta"
+    },
+    "subtitle": "Combinăm expertiza contabilă cu tehnologiile moderne pentru a vă oferi soluții complete.",
+    "accounting": {
+      "title": "Contabilitate & Fiscalitate",
+      "desc": "Evidență contabilă completă conform SIRF și NSBC. Rapoarte SFS, TVA, declarații fiscale. Consultanță în optimizarea fiscală legală."
+    },
+    "bots": {
+      "title": "Boți AI & Automatizare",
+      "desc": "Boți pentru Telegram, Facebook, Instagram. Procesare automată a facturilor cu AI. Integrări cu sistemele de evidență existente."
+    },
+    "dev1c": {
+      "title": "Dezvoltare 1C",
+      "desc": "Configurare și personalizare 1C pentru specificul afacerii dvs. Automatizarea proceselor, rapoarte personalizate, integrare cu bănci."
+    },
+    "consulting": {
+      "title": "Consultanță Financiară",
+      "desc": "Analiză financiară, planificare, managementul fluxului de numerar. Contracte de împrumut, grafice de rambursare, structurare juridică.",
+      "tag": {
+        "analysis": "Analiză",
+        "planning": "Planificare"
+      }
+    }
+  },
+  "why": {
+    "tag": "De ce Termicont",
+    "title": {
+      "line1": "Un partener,",
+      "line2": "nu un prestator"
+    },
+    "item": {
+      "expertise": {
+        "title": "Expertiză locală profundă",
+        "desc": "Cunoaștem legislația moldovenească, SFS-ul, CNAS-ul și specificul afacerilor locale."
+      },
+      "allinone": {
+        "title": "Tot în un singur loc",
+        "desc": "Contabilitate, IT, automatizare, consultanță — fără să căutați diferiți prestatori."
+      },
+      "tech": {
+        "title": "Tehnologii moderne",
+        "desc": "Integrăm AI și automatizare în procesele contabile tradiționale."
+      },
+      "experience": {
+        "title": "Experiență verificată",
+        "desc": "Fondator cu experiență de contabil-șef în companiile mari din RM și 1С din 2019."
+      }
+    },
+    "quote": {
+      "text": "„Clienții noștri nu trebuie să meargă prin oraș în căutare de servicii — găsesc tot ce au nevoie la noi.”",
+      "role": "fondator"
+    }
+  },
+  "cases": {
+    "tag": "Proiecte realizate",
+    "title": "Rezultate reale",
+    "evadeya": {
+      "title": "Bot AI pentru vânzări online",
+      "desc": "Bot pentru Telegram și Instagram cu catalog de produse, procesare comenzi și integrare cu 1C. Automatizarea completă a procesului de vânzare."
+    },
+    "bank": {
+      "company": "Clienți multipli",
+      "title": "Reconciliere bancară automată",
+      "desc": "Integrare 1C cu MAIB, Victoriabank, Energbank. Procesare automată a extraselor bancare — de la 20 min la sub 1 minut."
+    },
+    "invoice": {
+      "company": "Automatizare contabilă",
+      "title": "Procesare facturi cu AI",
+      "desc": "Recunoaștere automată a facturilor scanate, potrivire cu nomenclatorul 1C. Precizie 100% pe facturile de test."
+    }
+  },
+  "contact": {
+    "tag": "Contactați-ne",
+    "title": {
+      "line1": "Să discutăm",
+      "line2": "despre afacerea ta"
+    },
+    "subtitle": "Prima consultație este gratuită. Analizăm situația și propunem soluția optimă.",
+    "info": {
+      "messenger": {
+        "desc": "Scrieți-ne direct pentru răspuns rapid"
+      }
+    },
+    "form": {
+      "title": "Trimiteți o solicitare",
+      "company": {
+        "label": "Numele companiei"
+      },
+      "service": {
+        "label": "Serviciu de interes",
+        "placeholder": "Alegeți...",
+        "full": "Pachet complet"
+      },
+      "message": {
+        "label": "Mesaj"
+      },
+      "submit": "Trimite solicitarea →"
+    }
+  }
+}

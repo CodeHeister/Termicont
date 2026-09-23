@@ -1,0 +1,33 @@
+.contacts {
+  display: flex;
+  gap: 4em;
+  flex-wrap: wrap;
+  flex-direction: row;
+
+  & .contact-wrapper {
+    display: flex;
+    align-items: center;
+    min-width: 12em;
+    padding: 1em;
+    gap: 0.5em;
+    background-color: rgba(var(--surface-rgb), 0.8);
+    background-image: url(@assets/svg/pat.svg);
+    background-position: bottom center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    flex: 1 1 0;
+    flex-direction: column;
+    border-radius: 1em;
+
+    & h2 {
+      margin: 0;
+    }
+
+    & h2,
+    & .text {
+      text-align: center;
+      white-space: normal;
+      word-wrap: break-word;
+    }
+  }
+}

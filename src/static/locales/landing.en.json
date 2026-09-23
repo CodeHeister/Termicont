@@ -1,0 +1,124 @@
+{
+  "hero": {
+    "tag": "Bălți, Republic of Moldova",
+    "title": {
+      "line1": "Accounting.",
+      "line2": "Automation.",
+      "line3": "Results."
+    },
+    "subtitle": "Complete services for your business — from accounting and taxes to AI bots and 1C automation. Everything you need, in one place.",
+    "cta": {
+      "contact": "Contact us",
+      "services": "Our services"
+    },
+    "stat": {
+      "experience": "years of accounting experience",
+      "clients": "active clients in our portfolio",
+      "dev": "1C development & automation",
+      "ai": "modern bots & integrations"
+    }
+  },
+  "services": {
+    "tag": "What we offer",
+    "title": {
+      "line1": "Services for",
+      "line2": "your business"
+    },
+    "subtitle": "We combine accounting expertise with modern technology to deliver complete solutions.",
+    "accounting": {
+      "title": "Accounting & Taxation",
+      "desc": "Complete bookkeeping under IFRS and NAS. SFS reports, VAT, tax filings. Consulting on lawful tax optimization."
+    },
+    "bots": {
+      "title": "AI Bots & Automation",
+      "desc": "Bots for Telegram, Facebook, Instagram. Automatic invoice processing with AI. Integrations with your existing accounting systems."
+    },
+    "dev1c": {
+      "title": "1C Development",
+      "desc": "1C configuration and customization tailored to your business. Process automation, custom reports, bank integrations."
+    },
+    "consulting": {
+      "title": "Financial Consulting",
+      "desc": "Financial analysis, planning, and cash flow management. Loan agreements, repayment schedules, legal structuring.",
+      "tag": {
+        "analysis": "Analysis",
+        "planning": "Planning"
+      }
+    }
+  },
+  "why": {
+    "tag": "Why Termicont",
+    "title": {
+      "line1": "A partner,",
+      "line2": "not just a vendor"
+    },
+    "item": {
+      "expertise": {
+        "title": "Deep local expertise",
+        "desc": "We know Moldovan legislation, SFS, CNAS, and the specifics of local business."
+      },
+      "allinone": {
+        "title": "Everything in one place",
+        "desc": "Accounting, IT, automation, consulting — no need to search for different vendors."
+      },
+      "tech": {
+        "title": "Modern technology",
+        "desc": "We integrate AI and automation into traditional accounting processes."
+      },
+      "experience": {
+        "title": "Proven experience",
+        "desc": "Founder with experience as chief accountant at large Moldovan companies, and with 1C since 2019."
+      }
+    },
+    "quote": {
+      "text": "\"Our clients don't need to search across town for services — they find everything they need with us.\"",
+      "role": "founder"
+    }
+  },
+  "cases": {
+    "tag": "Completed projects",
+    "title": "Real results",
+    "evadeya": {
+      "title": "AI bot for online sales",
+      "desc": "A Telegram and Instagram bot with a product catalog, order processing, and 1C integration. Full automation of the sales process."
+    },
+    "bank": {
+      "company": "Multiple clients",
+      "title": "Automated bank reconciliation",
+      "desc": "1C integration with MAIB, Victoriabank, Energbank. Automatic processing of bank statements — from 20 minutes down to under 1 minute."
+    },
+    "invoice": {
+      "company": "Accounting automation",
+      "title": "AI invoice processing",
+      "desc": "Automatic recognition of scanned invoices, matched against the 1C catalog. 100% accuracy on test invoices."
+    }
+  },
+  "contact": {
+    "tag": "Contact us",
+    "title": {
+      "line1": "Let's talk",
+      "line2": "about your business"
+    },
+    "subtitle": "The first consultation is free. We analyze your situation and propose the optimal solution.",
+    "info": {
+      "messenger": {
+        "desc": "Message us directly for a quick reply"
+      }
+    },
+    "form": {
+      "title": "Send a request",
+      "company": {
+        "label": "Company name"
+      },
+      "service": {
+        "label": "Service of interest",
+        "placeholder": "Choose...",
+        "full": "Full package"
+      },
+      "message": {
+        "label": "Message"
+      },
+      "submit": "Send request →"
+    }
+  }
+}

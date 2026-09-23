@@ -1,0 +1,23 @@
+.theme-toggle {
+  position: relative;
+  border-radius: 1em;
+  transition: all 0.5s ease;
+  padding: 0 0.75em;
+  cursor: pointer;
+  background-color: transparent;
+  border: 0;
+
+  @extend %outset-shadow;
+}
+
+.theme {
+  color: var(--text-primary);
+  height: 100%;
+  transition: all 0.5s ease;
+  @include comp.media('min-width: 768px') {
+    width: 1.25em;
+  }
+  @include comp.media('max-width: 768px') {
+    width: 1.5em;
+  }
+}

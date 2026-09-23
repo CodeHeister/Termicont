@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "contacts": "Contacte"
+  },
+  "auth": {
+    "login": "Autentificare",
+    "signup": "Înregistrare"
+  },
+  "form": {
+    "username": "Numele de utilizator",
+    "password": "Parola",
+    "fullname": "Numele complet",
+    "submit": "Trimite"
+  },
+  "unauthorized": "Neautorizat",
+  "select_language": "Selectează limba",
+  "footer": {
+    "rights": "Toate drepturile rezervate."
+  }
+}

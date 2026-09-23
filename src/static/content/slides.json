@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Lorem ipsum dolor sit amet!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan commodo elementum. Donec lacinia mi sed ullamcorper pulvinar. Ut eget dictum orci. Donec malesuada eleifend.",
+    "imageUrl": "https://placehold.co/600x400/transparent/black/png?text=Lorem%5CnIpsulum&font=Raleway"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan commodo elementum. Donec lacinia mi sed ullamcorper pulvinar. Ut eget dictum orci. Donec malesuada eleifend.",
+    "imageUrl": "https://placehold.co/600x400/transparent/pink/png?text=Lorem%5CnIpsulum&font=Raleway"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan commodo elementum. Donec lacinia mi sed ullamcorper pulvinar. Ut eget dictum orci. Donec malesuada eleifend.",
+    "imageUrl": "https://placehold.co/600x400/transparent/red/png?text=Lorem%5CnIpsulum&font=Raleway"
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet!",
+    "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus accumsan commodo elementum. Donec lacinia mi sed ullamcorper pulvinar. Ut eget dictum orci. Donec malesuada eleifend.",
+    "imageUrl": "https://placehold.co/600x400/transparent/blue/png?text=Lorem%5CnIpsulum&font=Raleway"
+  }
+]

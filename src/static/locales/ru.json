@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Домой",
+    "contacts": "Контакты"
+  },
+  "auth": {
+    "login": "Войти",
+    "signup": "Регистрация"
+  },
+  "form": {
+    "username": "Имя пользователя",
+    "password": "Пароль",
+    "fullname": "Полное имя",
+    "submit": "ОТПРАВИТЬ"
+  },
+  "unauthorized": "Ошибка авторизации",
+  "select_language": "Выберите язык",
+  "footer": {
+    "rights": "Все права защищены."
+  }
+}

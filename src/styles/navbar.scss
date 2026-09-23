@@ -1,0 +1,146 @@
+%shadow {
+  box-shadow: rgba(var(--shadow-color-rgb), 0.4) 0px 7px 12px 0px;
+}
+
+%bg {
+  background-color: rgba(var(--surface-rgb), 0.8);
+  backdrop-filter: blur(10px);
+}
+
+%navbar {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  align-self: center;
+
+  @include comp.media('max-width: 768px') {
+    flex-direction: row;
+  }
+}
+
+.navbar {
+  display: flex;
+  border-radius: 1em;
+  flex-direction: row;
+  transition: all var(--transition-speed) ease;
+  padding: 0 1.5em;
+
+  @include comp.media('max-width: 768px') {
+    margin-bottom: auto;
+  }
+}
+
+.nav {
+  @extend %navbar;
+  gap: 1em;
+
+  & > [data-active='true'] {
+    & > .link .link-text {
+      font-weight: 800;
+    }
+  }
+
+  @include comp.media('min-width: 768px') {
+    flex-direction: row;
+  }
+  @include comp.media('max-width: 768px') {
+    flex-direction: column;
+    align-items: flex-start;
+
+    > .item .link {
+      font-size: 1.75em;
+    }
+  }
+
+  & .item {
+    position: relative;
+
+    & .icon {
+      display: inherit;
+      text-align: center;
+      @include prefixes.prefix(
+        transition,
+        color var(--transition-speed) linear,
+        webkit
+      );
+      @include comp.media('min-width: 768px') {
+      }
+    }
+
+    & .arrow {
+      & svg {
+        @include prefixes.prefix(transition-property, 'transform', webkit);
+        @include prefixes.prefix(
+          transition-duration,
+          var(--transition-speed),
+          webkit
+        );
+        transform: rotate(90deg);
+      }
+    }
+
+    > .link {
+      display: flex;
+      align-items: center;
+      text-decoration: none;
+    }
+
+    > .nav {
+      display: none;
+      position: absolute;
+      flex-direction: column;
+      top: 100%;
+      left: 50%;
+      transform: translateX(-50%);
+      z-index: 10;
+      border-radius: 1em;
+      padding: 0.45em 1em;
+      gap: 0.5em;
+      @extend %navbar;
+      @extend %bg;
+      @extend %shadow;
+    }
+
+    &:hover,
+    &:focus {
+      & > .nav {
+        display: flex;
+      }
+
+      & > .link .arrow svg {
+        transform: rotate(0deg);
+      }
+    }
+  }
+
+  & .link {
+    display: flex;
+    gap: 0.2em;
+    color: var(--text-primary);
+    @include prefixes.prefix(
+      transition-property,
+      'box-shadow, color, filter, background',
+      webkit
+    );
+    @include prefixes.prefix(
+      transition-duration,
+      var(--transition-speed),
+      webkit
+    );
+    @include prefixes.prefix(transition-timing-function, ease, webkit);
+
+    &:hover {
+      color: var(--link-color);
+    }
+
+    @include comp.media('max-width: 768px') {
+    }
+
+    @include comp.media('min-width: 768px') {
+      &:hover {
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "nav": {
+    "home": "Home",
+    "contacts": "Contacts"
+  },
+  "auth": {
+    "login": "Log In",
+    "signup": "Sign Up"
+  },
+  "form": {
+    "username": "Your Username",
+    "password": "Your Password",
+    "fullname": "Your Full Name",
+    "submit": "SUBMIT"
+  },
+  "unauthorized": "Unauthorized",
+  "select_language": "Select Language",
+  "footer": {
+    "rights": "All rights reserved."
+  }
+}
