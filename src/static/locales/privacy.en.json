@@ -34,7 +34,9 @@
       "l1": "service providers that help us run the website and communicate with you (hosting and content delivery, email and messaging services), acting on our instructions;",
       "l2": "public authorities, only where the law requires it or on an official and justified request.",
       "l3": "if the company is reorganised, merged or sold, the successor, who will be bound by this policy.",
-      "p2": "If a provider is located outside the Republic of Moldova and the European Economic Area, we make sure that the transfer is covered by appropriate safeguards."
+      "p2": "Where a provider is located outside the Republic of Moldova and the European Economic Area, we ensure that such a transfer is protected by appropriate safeguards (for example, standard contractual clauses/a data processing agreement with the provider).",
+      "p3": "In particular, our website hosting and content delivery network (CDN) are provided by Cloudflare, whose infrastructure is distributed globally, including outside Moldova and the EEA; this provider's processing of data is governed by a data processing agreement (DPA) and the standard contractual clauses Cloudflare makes available to its customers.",
+      "p4": "If we forward contact form messages via Telegram, this will also involve transferring the relevant data to Telegram FZ-LLC, which operates outside Moldova and the EEA; in that case, we will apply the same safeguards and update this section accordingly."
     },
     "s6": {
       "title": "6. How long we keep data",

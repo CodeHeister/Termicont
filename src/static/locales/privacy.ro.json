@@ -34,7 +34,9 @@
       "l1": "furnizori de servicii care ne ajută să administrăm site-ul și să comunicăm cu dumneavoastră (găzduire și livrare de conținut, servicii de e-mail și mesagerie), care acționează conform instrucțiunilor noastre;",
       "l2": "autorități publice, numai când legea o cere sau la o solicitare oficială și motivată.",
       "l3": "succesorului nostru, dacă compania este reorganizată, fuzionată sau vândută; acesta va fi obligat să respecte această politică.",
-      "p2": "Dacă un furnizor se află în afara Republicii Moldova și a Spațiului Economic European, ne asigurăm că transferul este acoperit de garanții adecvate."
+      "p2": "Dacă furnizorul se află în afara Republicii Moldova și a Spațiului Economic European, ne asigurăm că un astfel de transfer este protejat prin garanții adecvate (de exemplu, clauze contractuale standard/un acord de prelucrare a datelor cu furnizorul).",
+      "p3": "În special, găzduirea și rețeaua de distribuire a conținutului (CDN) ale site-ului nostru sunt asigurate de compania Cloudflare, a cărei infrastructură este distribuită la nivel global, inclusiv în afara RM și SEE; prelucrarea datelor de către acest furnizor este reglementată printr-un acord de prelucrare a datelor (DPA) și clauze contractuale standard puse la dispoziție de Cloudflare clienților săi.",
+      "p4": "Dacă vom transmite mesajele din formularul de contact prin intermediul Telegram, aceasta va presupune și transferul datelor relevante către compania Telegram FZ-LLC, care operează în afara RM și SEE; în acest caz vom aplica aceleași principii de protecție și vom actualiza această secțiune în consecință."
     },
     "s6": {
       "title": "6. Cât timp păstrăm datele",
