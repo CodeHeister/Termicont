@@ -1,0 +1,20 @@
+files:
+  - source: /src/static/locales/en.json
+    translation: /src/static/locales/%two_letters_code%.json
+    type: json
+
+  - source: /src/static/locales/consent.en.json
+    translation: /src/static/locales/consent.%two_letters_code%.json
+    type: json
+
+  - source: /src/static/locales/cookies.en.json
+    translation: /src/static/locales/cookies.%two_letters_code%.json
+    type: json
+
+  - source: /src/static/locales/landing.en.json
+    translation: /src/static/locales/landing.%two_letters_code%.json
+    type: json
+
+  - source: /src/static/locales/privacy.en.json
+    translation: /src/static/locales/privacy.%two_letters_code%.json
+    type: json
