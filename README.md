@@ -46,20 +46,23 @@ npm run preview
 
 ## Scripts
 
-| Script                | Description                                              |
-| ---------------------- | --------------------------------------------------------- |
-| `npm run dev`           | Start the Vite dev server                                 |
-| `npm run build`         | Type-check-free production build to `dist/`               |
-| `npm run preview`       | Serve the built `dist/` output locally                    |
-| `npm run analyze`       | Production build with a bundle size report (`dist/bundle-analysis.html`) |
-| `npm run lint`          | Run ESLint on `src`                                        |
-| `npm run lint:fix`      | Run ESLint with `--fix`                                    |
-| `npm run format`        | Format the codebase with Prettier                          |
-| `npm run gen:lib`       | Regenerate barrel (`index.ts`) files under `src/lib`       |
-| `npm run docker:build`  | Build the Docker image                                     |
-| `npm run docker:tag`    | Tag the Docker image for the configured registry           |
-| `npm run docker:push`   | Push the tagged image to the registry                       |
-| `npm run docker:publish`| Build, tag, and push in one step                            |
+| Script                   | Description                                                              |
+| ------------------------ | ------------------------------------------------------------------------ |
+| `npm run dev`            | Start the Vite dev server                                                |
+| `npm run build`          | Type-check-free production build to `dist/`                              |
+| `npm run preview`        | Serve the built `dist/` output locally                                   |
+| `npm run analyze`        | Production build with a bundle size report (`dist/bundle-analysis.html`) |
+| `npm run lint`           | Run ESLint on `src`                                                      |
+| `npm run lint:fix`       | Run ESLint with `--fix`                                                  |
+| `npm run format`         | Format the codebase with Prettier                                        |
+| `npm run gen:lib`        | Regenerate barrel (`index.ts`) files under `src/lib`                     |
+| `npm run docker:build`   | Build the Docker image                                                   |
+| `npm run docker:tag`     | Tag the Docker image for the configured registry                         |
+| `npm run docker:push`    | Push the tagged image to the registry                                    |
+| `npm run docker:publish` | Build, tag, and push in one step                                         |
+| `npm run cf:login`       | Authenticate wrangler with Cloudflare                                    |
+| `npm run cf:dev`         | Preview the Worker locally via wrangler                                  |
+| `npm run deploy`         | Build and deploy the site to Cloudflare Workers                          |
 
 `gen:lib` and `format` also run automatically before every `build` via a custom Vite plugin (`plugins/vite-plugin-run-before-build.ts`).
 
@@ -84,15 +87,15 @@ scripts/        Standalone dev/build scripts (e.g. lib index generation)
 
 Configured in both `vite.config.ts` and `tsconfig.json`:
 
-| Alias          | Path                        |
-| -------------- | ---------------------------- |
-| `@/*`           | `src/*`                      |
-| `@lib/*`        | `src/lib/*`                  |
-| `@forms/*`      | `src/forms/*`                |
-| `@styles/*`     | `src/styles/*`                |
-| `@static/*`     | `src/static/*`                |
-| `@assets/*`     | `src/static/assets/*`         |
-| `@components/*` | `src/components/*`            |
+| Alias           | Path                  |
+| --------------- | --------------------- |
+| `@/*`           | `src/*`               |
+| `@lib/*`        | `src/lib/*`           |
+| `@forms/*`      | `src/forms/*`         |
+| `@styles/*`     | `src/styles/*`        |
+| `@static/*`     | `src/static/*`        |
+| `@assets/*`     | `src/static/assets/*` |
+| `@components/*` | `src/components/*`    |
 
 ## Docker
 

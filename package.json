@@ -20,7 +20,10 @@
     "docker:build": "docker build -t $npm_package_config_dockerImage .",
     "docker:tag": "docker tag $npm_package_config_dockerImage $npm_package_config_dockerRegistry/$npm_package_config_dockerImage:$npm_package_config_dockerTag",
     "docker:push": "docker push $npm_package_config_dockerRegistry/$npm_package_config_dockerImage:$npm_package_config_dockerTag",
-    "docker:publish": "npm run docker:build && npm run docker:tag && npm run docker:push"
+    "docker:publish": "npm run docker:build && npm run docker:tag && npm run docker:push",
+    "cf:login": "wrangler login",
+    "cf:dev": "wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
   },
   "keywords": [],
   "author": "",
@@ -48,6 +51,7 @@
     "vite": "^6.2.0",
     "vite-plugin-compression": "^0.5.1",
     "vite-plugin-solid": "^2.11.6",
+    "wrangler": "^4.137.0",
     "yaml": "^2.8.0"
   },
   "dependencies": {
@@ -62,5 +66,10 @@
     "solid-icons": "^1.1.0",
     "solid-js": "^1.9.5",
     "vite-plugin-sitemap": "^0.8.2"
+  },
+  "allowScripts": {
+    "esbuild@0.25.7": true,
+    "esbuild@0.28.1": true,
+    "workerd@1.20260921.1": true
   }
 }
