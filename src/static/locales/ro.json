@@ -16,6 +16,9 @@
   "unauthorized": "Neautorizat",
   "select_language": "Selectează limba",
   "footer": {
-    "rights": "Toate drepturile rezervate."
+    "rights": "Toate drepturile rezervate.",
+    "privacy": "Politica de confidențialitate",
+    "cookies": "Setări cookie",
+    "cookie_policy": "Politica privind cookie-urile"
   }
 }

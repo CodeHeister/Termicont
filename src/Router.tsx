@@ -26,6 +26,14 @@ const routes = [
         component: lazy(() => import('./components/Product')),
     },
     {
+        path: '/privacy',
+        component: lazy(() => import('./pages/PrivacyPolicy')),
+    },
+    {
+        path: '/cookies',
+        component: lazy(() => import('./pages/CookiePolicy')),
+    },
+    {
         path: '/gallery',
         component: lazy(() => import('./components/GalleryTest')),
     },

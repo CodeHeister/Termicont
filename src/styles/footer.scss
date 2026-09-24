@@ -83,10 +83,29 @@ footer {
   }
 
   & .footer-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 0.5em;
     border-top: 1px solid rgba(var(--text-primary-rgb), 0.1);
     padding-top: 1.25em;
     text-align: center;
     font-size: 0.8em;
     color: var(--text-primary-hover);
+
+    & .footer-link {
+      padding: 0;
+      border: 0;
+      font: inherit;
+      color: inherit;
+      background: none;
+      text-decoration: underline;
+      cursor: pointer;
+      transition: color var(--transition-speed);
+
+      &:hover {
+        color: var(--button-bg-primary);
+      }
+    }
   }
 }

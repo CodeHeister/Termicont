@@ -1,0 +1,30 @@
+{
+  "banner": {
+    "title": "Cookie-uri și confidențialitate",
+    "text": "Folosim stocarea în browser necesară funcționării site-ului. Cu acordul dumneavoastră, putem folosi și instrumente de analiză și de marketing. Puteți accepta tot, respinge cele opționale sau alege ce permiteți.",
+    "policy": "Politica de confidențialitate",
+    "accept": "Acceptă toate",
+    "reject": "Respinge opționalele",
+    "customize": "Personalizează"
+  },
+  "dialog": {
+    "title": "Setări cookie",
+    "intro": "Alegeți categoriile pe care le permiteți. Stocarea necesară nu poate fi dezactivată, deoarece site-ul nu funcționează fără ea. Puteți schimba alegerea în orice moment.",
+    "save": "Salvează alegerile",
+    "close": "Închide"
+  },
+  "categories": {
+    "necessary": {
+      "title": "Necesare",
+      "desc": "Tema, limba, tokenul de securitate și înregistrarea alegerilor dumneavoastră. Site-ul nu poate funcționa corect fără acestea."
+    },
+    "analytics": {
+      "title": "Analiză",
+      "desc": "Ne ajută să înțelegem cum este folosit site-ul pentru a-l îmbunătăți. Momentan nu sunt folosite."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "desc": "Folosite pentru a afișa oferte relevante și a măsura campaniile. Momentan nu sunt folosite."
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "title": "Cookie Policy",
+  "updated": "Last updated: 24 September 2026",
+  "intro": "This Cookie Policy explains how Termicont SRL uses cookies and similar technologies (such as the browser's localStorage and sessionStorage) on this website. Please read it together with our Privacy Policy.",
+  "sections": {
+    "s1": {
+      "title": "1. What are cookies",
+      "p1": "Cookies are small text files stored on your computer or mobile device when you visit a website. Similar technologies, such as localStorage and sessionStorage, serve the same purposes. They are widely used to make websites work properly and to give information to website owners."
+    },
+    "s2": {
+      "title": "2. Managing your consent",
+      "p1": "When consent management is active on this website, an information banner is shown on your first visit. It lets you:",
+      "l1": "accept all categories;",
+      "l2": "reject all optional categories;",
+      "l3": "choose individually for each category.",
+      "p2": "You can change or withdraw your choice at any time using the “Cookie settings” link at the bottom of the page. You can also manage and delete cookies and stored data in your browser settings.",
+      "button1": "consent"
+    },
+    "s3": {
+      "title": "3. Categories we use",
+      "p1": "Depending on their purpose, items are grouped into these categories:",
+      "l1": "Strictly necessary: needed for the website to work and to keep it secure, for example the security token that protects forms. They do not require your consent.",
+      "l2": "Preferences: remember choices you make yourself, such as theme and language. They are stored only when you change these options.",
+      "l3": "Analytics: count visits and traffic sources so that we can understand which parts of the site are most useful and improve it. Enabled only with your consent. Not used at the moment.",
+      "l4": "Marketing: used to show relevant offers and measure advertising campaigns. Enabled only with your consent. Not used at the moment."
+    },
+    "s4": {
+      "title": "4. What the website stores now",
+      "p1": "Currently the website stores only the following items:",
+      "l1": "theme (localStorage, preferences): your light or dark theme choice; kept until you delete it.",
+      "l2": "app_locale (localStorage, preferences): your language choice; kept until you delete it.",
+      "l3": "X-CSRF-TOKEN (sessionStorage, strictly necessary): a token protecting forms against forged requests; deleted when you close the tab.",
+      "l4": "consent (localStorage, strictly necessary): the record of your cookie choices; kept until you change it or delete it, or until we ask for consent again after a significant change."
+    },
+    "s5": {
+      "title": "5. Third-party services",
+      "p1": "The website does not currently load third-party analytics, advertising or social-media scripts, and no third party sets cookies through it. If we add such services (for example an analytics tool), they will be loaded only after you consent and we will list them here. Their processing is governed by the privacy policies of those providers."
+    },
+    "s6": {
+      "title": "6. Storage periods",
+      "p1": "Session storage is deleted automatically when you close the tab or browser. Persistent items remain on your device until you delete them in your browser settings or until they expire."
+    },
+    "s7": {
+      "title": "7. Your rights",
+      "p1": "Under the data protection legislation of the Republic of Moldova and, where applicable, the GDPR, you have the right to access, correct and erase your data and to withdraw your consent at any time. More details are in our Privacy Policy. To exercise these rights in relation to cookies, use the cookie settings on the website or contact us."
+    },
+    "s8": {
+      "title": "8. Contact",
+      "p1": "Termicont SRL, IDNO 1015602000326, mun. Bălți, str. Igor Sereda, 15, Republic of Moldova.",
+      "email": "Email: {email}"
+    },
+    "s9": {
+      "title": "9. Changes to this policy",
+      "p1": "We may update this policy from time to time. The current version is always available on this page."
+    }
+  }
+}

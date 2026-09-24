@@ -1,0 +1,64 @@
+{
+  "title": "Privacy Policy",
+  "updated": "Last updated: 24 September 2026",
+  "intro": "This policy explains how Termicont SRL (\"we\", \"us\") processes personal data when you visit this website and contact us through it. We process personal data in accordance with the personal data protection legislation of the Republic of Moldova and, where applicable, Regulation (EU) 2016/679 (GDPR).",
+  "sections": {
+    "s1": {
+      "title": "1. Who is responsible for your data",
+      "p1": "The controller of your personal data is Termicont SRL, IDNO 1015602000326, registered at mun. Bălți, str. Igor Sereda, 15, Republic of Moldova.",
+      "email": "You can contact us about privacy matters at {email}.",
+      "p2": "You can also write to us by post at the address above."
+    },
+    "s2": {
+      "title": "2. What data we process",
+      "p1": "Depending on how you use the website, we may process:",
+      "l1": "Contact data and message content: details you provide in the contact form or when you write to us by email, Telegram or WhatsApp (for example company name, name, phone number, email address, the service you are interested in and your message).",
+      "l2": "Technical data: IP address, browser type and version, device and operating system, pages requested and time of the request. This data is generated automatically when you visit the website and is recorded in the logs of our hosting and content delivery provider.",
+      "l3": "Preferences stored in your browser: theme, language and your cookie choices (see section 4).",
+      "p2": "We do not knowingly collect special categories of personal data through this website, and we do not carry out automated decision-making or profiling."
+    },
+    "s3": {
+      "title": "3. Why we process it and on what basis",
+      "l1": "Answering your enquiries and preparing a service offer: to take steps at your request before entering into a contract, or with your consent.",
+      "l2": "Operating and securing the website (delivering pages, preventing abuse and attacks): our legitimate interest in running a secure website.",
+      "l3": "Statistics and marketing, if we enable them: only with your consent, which you can withdraw at any time.",
+      "l4": "Keeping accounting and tax records when we have entered into a contract with you: compliance with legal obligations."
+    },
+    "s4": {
+      "title": "4. Cookies and browser storage",
+      "p1": "The website currently uses only browser storage that is necessary for it to work or to remember a choice you made (theme, language, a form security token and your cookie choices). The website does not currently use analytics or advertising cookies. If we introduce them, they will be loaded only after you give consent. Details, including the name, purpose and duration of each item, are in our Cookie Policy."
+    },
+    "s5": {
+      "title": "5. Who we share data with",
+      "p1": "We do not sell personal data. We may share it only with:",
+      "l1": "service providers that help us run the website and communicate with you (hosting and content delivery, email and messaging services), acting on our instructions;",
+      "l2": "public authorities, only where the law requires it or on an official and justified request.",
+      "l3": "if the company is reorganised, merged or sold, the successor, who will be bound by this policy.",
+      "p2": "If a provider is located outside the Republic of Moldova and the European Economic Area, we make sure that the transfer is covered by appropriate safeguards."
+    },
+    "s6": {
+      "title": "6. How long we keep data",
+      "p1": "We keep personal data only as long as necessary for the purpose for which it was collected. Enquiries that do not lead to a contract are deleted once they are no longer needed to handle your request. Data contained in contracts and accounting documents is kept for the periods required by law. Server logs are kept for a limited period by the hosting provider. Your consent choice is stored in your browser until you change or delete it."
+    },
+    "s7": {
+      "title": "7. Your rights",
+      "p1": "You have the right to:",
+      "l1": "access the personal data we hold about you;",
+      "l2": "have inaccurate data corrected;",
+      "l3": "have your data erased, or its processing restricted;",
+      "l4": "object to processing based on our legitimate interest;",
+      "l5": "receive your data in a portable format, where applicable;",
+      "l6": "withdraw your consent at any time, without affecting the lawfulness of processing carried out before withdrawal.",
+      "p2": "To exercise these rights, contact us using the details in section 1. We will reply within 30 calendar days. You also have the right to lodge a complaint with the National Center for Personal Data Protection of the Republic of Moldova (datepersonale.md) or, if you are in the EU, with your local supervisory authority."
+    },
+    "s8": {
+      "title": "8. Security",
+      "p1": "We apply appropriate technical and organisational measures to protect personal data, such as encrypted connections and restricted access to information.",
+      "p2": "No method of transmission over the Internet or electronic storage is completely secure, so we cannot guarantee absolute security."
+    },
+    "s9": {
+      "title": "9. Changes to this policy",
+      "p1": "We may update this policy from time to time. The current version is always available on this page, and the date of the last update is shown at the top."
+    }
+  }
+}

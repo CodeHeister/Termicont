@@ -1,4 +1,7 @@
+import { A } from '@solidjs/router';
+import { Show } from 'solid-js';
 import { useI18n } from '@lib/i18n';
+import { CONSENT_ENABLED, ConsentService } from '@lib/consent';
 import '@styles/footer.scss';
 
 export default function Footer() {
@@ -14,18 +17,13 @@ export default function Footer() {
                         mun. Bălți, str. Igor Sereda, 15
                     </span>
                 </div>
-                <nav class="links" aria-label="Footer navigation">
-                    <a class="link-wrapper" role="link" href="/" tabindex="0">
-                        <h2>{t('nav.home', 'Home')}</h2>
-                    </a>
-                    <a
-                        class="link-wrapper"
-                        role="link"
-                        href="/contacts"
-                        tabindex="0"
-                    >
-                        <h2>{t('nav.contacts', 'Contacts')}</h2>
-                    </a>
+                <nav class="links" aria-label="Legal">
+                    <A class="link-wrapper" href="/privacy">
+                        <h2>{t('footer.privacy', 'Privacy Policy')}</h2>
+                    </A>
+                    <A class="link-wrapper" href="/cookies">
+                        <h2>{t('footer.cookie_policy', 'Cookie Policy')}</h2>
+                    </A>
                 </nav>
                 <div class="footer-contact">
                     <strong>IDNO 1015602000326</strong>
@@ -36,6 +34,15 @@ export default function Footer() {
                 <span>
                     © {year} Termicont SRL. {t('footer.rights')}
                 </span>
+                <Show when={CONSENT_ENABLED}>
+                    <button
+                        type="button"
+                        class="footer-link"
+                        onClick={() => ConsentService.openPreferences()}
+                    >
+                        {t('footer.cookies', 'Cookie settings')}
+                    </button>
+                </Show>
             </div>
         </footer>
     );

@@ -16,6 +16,9 @@
   "unauthorized": "Ошибка авторизации",
   "select_language": "Выберите язык",
   "footer": {
-    "rights": "Все права защищены."
+    "rights": "Все права защищены.",
+    "privacy": "Политика конфиденциальности",
+    "cookies": "Настройки cookie",
+    "cookie_policy": "Политика использования cookie"
   }
 }

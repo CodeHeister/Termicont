@@ -1,0 +1,57 @@
+{
+  "title": "Politica privind cookie-urile",
+  "updated": "Ultima actualizare: 24 septembrie 2026",
+  "intro": "Această politică explică modul în care Termicont SRL folosește cookie-uri și tehnologii similare (precum localStorage și sessionStorage ale browserului) pe acest site. Vă rugăm să o citiți împreună cu Politica de confidențialitate.",
+  "sections": {
+    "s1": {
+      "title": "1. Ce sunt cookie-urile",
+      "p1": "Cookie-urile sunt fișiere text mici stocate pe computerul sau dispozitivul mobil atunci când vizitați un site. Tehnologiile similare, cum ar fi localStorage și sessionStorage, au aceleași scopuri. Ele sunt folosite pe scară largă pentru a face site-urile să funcționeze corect și pentru a oferi informații proprietarilor site-urilor."
+    },
+    "s2": {
+      "title": "2. Gestionarea consimțământului",
+      "p1": "Când gestionarea consimțământului este activă pe acest site, la prima vizită se afișează un banner informativ. Acesta vă permite:",
+      "l1": "să acceptați toate categoriile;",
+      "l2": "să respingeți toate categoriile opționale;",
+      "l3": "să alegeți individual pentru fiecare categorie.",
+      "p2": "Puteți modifica sau retrage alegerea în orice moment folosind linkul „Setări cookie” din partea de jos a paginii. De asemenea, puteți gestiona și șterge cookie-urile și datele stocate din setările browserului.",
+      "button1": "consent"
+    },
+    "s3": {
+      "title": "3. Categoriile folosite",
+      "p1": "În funcție de scop, elementele sunt grupate în următoarele categorii:",
+      "l1": "Strict necesare: necesare pentru funcționarea și securitatea site-ului, de exemplu tokenul de securitate care protejează formularele. Nu necesită consimțământul dumneavoastră.",
+      "l2": "Preferințe: rețin alegerile pe care le faceți dumneavoastră, precum tema și limba. Se stochează numai când modificați aceste opțiuni.",
+      "l3": "Analiză: numără vizitele și sursele de trafic pentru a înțelege care părți ale site-ului sunt cele mai utile și pentru a-l îmbunătăți. Se activează numai cu consimțământul dumneavoastră. Momentan nu sunt folosite.",
+      "l4": "Marketing: folosite pentru a afișa oferte relevante și a măsura campaniile publicitare. Se activează numai cu consimțământul dumneavoastră. Momentan nu sunt folosite."
+    },
+    "s4": {
+      "title": "4. Ce stochează site-ul acum",
+      "p1": "În prezent, site-ul stochează numai următoarele elemente:",
+      "l1": "theme (localStorage, preferințe): tema luminoasă sau întunecată aleasă; se păstrează până o ștergeți.",
+      "l2": "app_locale (localStorage, preferințe): limba aleasă; se păstrează până o ștergeți.",
+      "l3": "X-CSRF-TOKEN (sessionStorage, strict necesar): token care protejează formularele împotriva cererilor falsificate; se șterge la închiderea filei.",
+      "l4": "consent (localStorage, strict necesar): înregistrarea alegerilor privind cookie-urile; se păstrează până o modificați sau o ștergeți ori până când vă solicităm din nou consimțământul după o modificare semnificativă."
+    },
+    "s5": {
+      "title": "5. Servicii ale terților",
+      "p1": "În prezent, site-ul nu încarcă scripturi terțe de analiză, publicitate sau rețele sociale și niciun terț nu setează cookie-uri prin intermediul lui. Dacă adăugăm astfel de servicii (de exemplu un instrument de analiză), ele vor fi încărcate numai după consimțământul dumneavoastră, iar noi le vom enumera aici. Prelucrarea de către acești furnizori este reglementată de politicile lor de confidențialitate."
+    },
+    "s6": {
+      "title": "6. Perioade de stocare",
+      "p1": "Stocarea de sesiune se șterge automat la închiderea filei sau a browserului. Elementele persistente rămân pe dispozitivul dumneavoastră până le ștergeți din setările browserului sau până expiră."
+    },
+    "s7": {
+      "title": "7. Drepturile dumneavoastră",
+      "p1": "Conform legislației Republicii Moldova privind protecția datelor cu caracter personal și, după caz, GDPR, aveți dreptul de a accesa, rectifica și șterge datele dumneavoastră și de a vă retrage consimțământul în orice moment. Mai multe detalii găsiți în Politica de confidențialitate. Pentru a vă exercita aceste drepturi în legătură cu cookie-urile, folosiți setările de cookie de pe site sau contactați-ne."
+    },
+    "s8": {
+      "title": "8. Contact",
+      "p1": "Termicont SRL, IDNO 1015602000326, mun. Bălți, str. Igor Sereda, 15, Republica Moldova.",
+      "email": "E-mail: {email}"
+    },
+    "s9": {
+      "title": "9. Modificări ale politicii",
+      "p1": "Putem actualiza periodic această politică. Versiunea curentă este întotdeauna disponibilă pe această pagină."
+    }
+  }
+}

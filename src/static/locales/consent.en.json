@@ -1,0 +1,30 @@
+{
+  "banner": {
+    "title": "Cookies and privacy",
+    "text": "We use browser storage that is necessary for the website to work. With your permission we may also use analytics and marketing tools. You can accept all, reject the optional ones, or choose what to allow.",
+    "policy": "Privacy Policy",
+    "accept": "Accept all",
+    "reject": "Reject optional",
+    "customize": "Customize"
+  },
+  "dialog": {
+    "title": "Cookie settings",
+    "intro": "Choose which categories you allow. Necessary storage cannot be turned off because the website does not work without it. You can change your choice at any time.",
+    "save": "Save choices",
+    "close": "Close"
+  },
+  "categories": {
+    "necessary": {
+      "title": "Necessary",
+      "desc": "Theme, language, security token and the record of your choices. The website cannot work properly without them."
+    },
+    "analytics": {
+      "title": "Analytics",
+      "desc": "Help us understand how the website is used so we can improve it. Not used at the moment."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "desc": "Used to show relevant offers and measure campaigns. Not used at the moment."
+    }
+  }
+}

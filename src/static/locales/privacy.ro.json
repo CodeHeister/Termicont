@@ -1,0 +1,64 @@
+{
+  "title": "Politica de confidențialitate",
+  "updated": "Ultima actualizare: 24 septembrie 2026",
+  "intro": "Această politică explică modul în care Termicont SRL („noi”) prelucrează datele cu caracter personal atunci când vizitați acest site și ne contactați prin intermediul lui. Prelucrăm datele cu caracter personal în conformitate cu legislația Republicii Moldova privind protecția datelor cu caracter personal și, după caz, cu Regulamentul (UE) 2016/679 (GDPR).",
+  "sections": {
+    "s1": {
+      "title": "1. Cine răspunde de datele dumneavoastră",
+      "p1": "Operatorul datelor dumneavoastră cu caracter personal este Termicont SRL, IDNO 1015602000326, cu sediul în mun. Bălți, str. Igor Sereda, 15, Republica Moldova.",
+      "email": "Ne puteți contacta în chestiuni de confidențialitate la {email}.",
+      "p2": "Ne puteți scrie și prin poștă, la adresa de mai sus."
+    },
+    "s2": {
+      "title": "2. Ce date prelucrăm",
+      "p1": "În funcție de modul în care folosiți site-ul, putem prelucra:",
+      "l1": "Date de contact și conținutul mesajelor: informațiile pe care le furnizați în formularul de contact sau când ne scrieți prin e-mail, Telegram ori WhatsApp (de exemplu denumirea companiei, numele, numărul de telefon, adresa de e-mail, serviciul care vă interesează și mesajul).",
+      "l2": "Date tehnice: adresa IP, tipul și versiunea browserului, dispozitivul și sistemul de operare, paginile solicitate și ora solicitării. Aceste date se generează automat la vizitarea site-ului și sunt înregistrate în jurnalele furnizorului nostru de găzduire și de livrare a conținutului.",
+      "l3": "Preferințe stocate în browser: tema, limba și alegerile privind cookie-urile (vezi secțiunea 4).",
+      "p2": "Nu colectăm în mod intenționat categorii speciale de date cu caracter personal prin acest site și nu luăm decizii automatizate și nu efectuăm profilare."
+    },
+    "s3": {
+      "title": "3. De ce prelucrăm datele și pe ce temei",
+      "l1": "Răspunsul la solicitările dumneavoastră și pregătirea unei oferte de servicii: pentru a face demersuri la cererea dumneavoastră înainte de încheierea unui contract sau pe baza consimțământului.",
+      "l2": "Funcționarea și securitatea site-ului (livrarea paginilor, prevenirea abuzurilor și a atacurilor): interesul nostru legitim de a administra un site sigur.",
+      "l3": "Statistici și marketing, dacă le activăm: numai cu consimțământul dumneavoastră, pe care îl puteți retrage în orice moment.",
+      "l4": "Păstrarea evidenței contabile și fiscale când am încheiat un contract cu dumneavoastră: îndeplinirea obligațiilor legale."
+    },
+    "s4": {
+      "title": "4. Cookie-uri și stocarea în browser",
+      "p1": "În prezent, site-ul folosește numai stocarea în browser necesară funcționării sale sau pentru a reține o alegere făcută de dumneavoastră (tema, limba, un token de securitate pentru formulare și alegerile privind cookie-urile). Site-ul nu folosește cookie-uri de analiză sau publicitare. Dacă le introducem, ele vor fi încărcate numai după consimțământul dumneavoastră. Detalii, inclusiv denumirea, scopul și durata fiecărui element, găsiți în Politica privind cookie-urile."
+    },
+    "s5": {
+      "title": "5. Cu cine partajăm datele",
+      "p1": "Nu vindem datele cu caracter personal. Le putem transmite numai către:",
+      "l1": "furnizori de servicii care ne ajută să administrăm site-ul și să comunicăm cu dumneavoastră (găzduire și livrare de conținut, servicii de e-mail și mesagerie), care acționează conform instrucțiunilor noastre;",
+      "l2": "autorități publice, numai când legea o cere sau la o solicitare oficială și motivată.",
+      "l3": "succesorului nostru, dacă compania este reorganizată, fuzionată sau vândută; acesta va fi obligat să respecte această politică.",
+      "p2": "Dacă un furnizor se află în afara Republicii Moldova și a Spațiului Economic European, ne asigurăm că transferul este acoperit de garanții adecvate."
+    },
+    "s6": {
+      "title": "6. Cât timp păstrăm datele",
+      "p1": "Păstrăm datele cu caracter personal doar atât timp cât este necesar scopului pentru care au fost colectate. Solicitările care nu duc la încheierea unui contract se șterg când nu mai sunt necesare pentru soluționarea cererii dumneavoastră. Datele din contracte și din documentele contabile se păstrează pe termenele prevăzute de lege. Jurnalele serverului sunt păstrate de furnizorul de găzduire pe o perioadă limitată. Alegerea privind consimțământul este stocată în browser până când o modificați sau o ștergeți."
+    },
+    "s7": {
+      "title": "7. Drepturile dumneavoastră",
+      "p1": "Aveți dreptul:",
+      "l1": "de a accesa datele cu caracter personal pe care le deținem despre dumneavoastră;",
+      "l2": "de a solicita rectificarea datelor inexacte;",
+      "l3": "de a solicita ștergerea datelor sau restricționarea prelucrării lor;",
+      "l4": "de a vă opune prelucrării bazate pe interesul nostru legitim;",
+      "l5": "de a primi datele într-un format portabil, unde este cazul;",
+      "l6": "de a vă retrage consimțământul în orice moment, fără a afecta legalitatea prelucrării efectuate înainte de retragere.",
+      "p2": "Pentru a vă exercita drepturile, contactați-ne folosind datele din secțiunea 1. Vă vom răspunde în termen de 30 de zile calendaristice. Aveți, de asemenea, dreptul de a depune o plângere la Centrul Național pentru Protecția Datelor cu Caracter Personal al Republicii Moldova (datepersonale.md) sau, dacă vă aflați în UE, la autoritatea de supraveghere locală."
+    },
+    "s8": {
+      "title": "8. Securitate",
+      "p1": "Aplicăm măsuri tehnice și organizatorice adecvate pentru protecția datelor cu caracter personal, cum ar fi conexiuni criptate și acces restricționat la informații.",
+      "p2": "Nicio metodă de transmitere prin Internet sau de stocare electronică nu este complet sigură, prin urmare nu putem garanta securitatea absolută."
+    },
+    "s9": {
+      "title": "9. Modificări ale politicii",
+      "p1": "Putem actualiza periodic această politică. Versiunea curentă este întotdeauna disponibilă pe această pagină, iar data ultimei actualizări este indicată în partea de sus."
+    }
+  }
+}

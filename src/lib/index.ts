@@ -1,3 +1,4 @@
+import * as Consent from './consent';
 import * as Cookie from './cookie';
 import * as Csrf from './csrf';
 import * as Date from './date';
@@ -13,6 +14,7 @@ import * as Theme from './theme';
 export * from './index';
 
 export {
+    Consent,
     Cookie,
     Csrf,
     Date,

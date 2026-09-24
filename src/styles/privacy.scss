@@ -1,0 +1,49 @@
+.privacy {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75em;
+  max-width: 50em;
+  margin: 0 auto;
+  padding: 2em 1.5em;
+  box-sizing: border-box;
+  line-height: 1.7;
+
+  & h1 {
+    margin: 0;
+  }
+
+  & h2 {
+    margin: 1.25em 0 0;
+    font-size: 1.25em;
+    color: var(--button-bg-primary);
+  }
+
+  & p,
+  & ul {
+    margin: 0;
+  }
+
+  & ul {
+    padding-left: 1.5em;
+
+    & li + li {
+      margin-top: 0.5em;
+    }
+  }
+
+  & .privacy-updated {
+    font-size: 0.85em;
+    color: var(--text-primary-hover);
+  }
+
+  & section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.75em;
+    scroll-margin-top: 2em;
+
+    & .button {
+      align-self: flex-start;
+    }
+  }
+}
